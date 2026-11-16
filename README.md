@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mixpost-1?utm_medium=integration&utm_source=button&utm_campaign=mixpost)
+
 # Mixpost on Railway
 
 This repository is the source of the **Mixpost** template on Railway. It deploys [Mixpost Lite](https://github.com/inovector/mixpost), the open-source, self-hosted social media scheduler, from the official image `inovector/mixpost:v2.6.0`, pinned by digest.
